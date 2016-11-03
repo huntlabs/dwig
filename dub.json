@@ -3,7 +3,7 @@
 	"authors": [
 		"donglei"
 	],
-	"description": "A minimal D application.",
+	"description": "template for d.",
 	"copyright": "Copyright © 2016, root",
 	"license": "proprietary"
 }
